@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(DodgeShip VERSION 0.0.1)
+project(NarutoRush VERSION 0.0.1)
 find_package(glfw3 3.3 REQUIRED)
 
 # Include dirs
@@ -20,9 +20,9 @@ set(
     src/Shader.cpp
     src/Texto.cpp
 )
-add_executable(DodgeShip ${SOURCES})
+add_executable(NarutoRush ${SOURCES})
 target_link_libraries(
-DodgeShip
+NarutoRush
 glfw
 glad
 
