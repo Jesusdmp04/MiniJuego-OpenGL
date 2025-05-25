@@ -8,6 +8,10 @@ public:
     void update(float dt) override;
     void draw() override;
 private:
+    unsigned int shipTex;
+    unsigned int titleTex;
+    unsigned int nameTex;
+    unsigned int promptTex;
     unsigned int VAO, VBO;
-    unsigned int textureShip;
+    float rotation;
 };

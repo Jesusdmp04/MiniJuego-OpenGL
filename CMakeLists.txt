@@ -8,7 +8,9 @@ include_directories(
     ${PROJECT_SOURCE_DIR}/include
 )
 include_directories("C:/Users/jesus/vcpkg/installed/x64-windows/include")
+
 add_subdirectory(glad)
+
 set(
     SOURCES
     src/Entity.cpp 
@@ -19,11 +21,13 @@ set(
     src/SceneManager.cpp
     src/Shader.cpp
     src/Texto.cpp
+    src/stb_image.cpp         # <=== Implementación agregada aquí
 )
-add_executable(NarutoRush ${SOURCES})
-target_link_libraries(
-NarutoRush
-glfw
-glad
 
+add_executable(NarutoRush ${SOURCES})
+
+target_link_libraries(
+    NarutoRush
+    glfw
+    glad
 )
