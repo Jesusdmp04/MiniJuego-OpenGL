@@ -1,0 +1,3 @@
+C:\Users\jesus\vcpkg\downloads\tools\cmake-3.30.1-windows\cmake-3.30.1-windows-i386\bin\cmake.exe -E rm -f CMakeFiles\DodgeShip.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\DodgeShip.dir/objects.a @CMakeFiles\DodgeShip.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\DodgeShip.dir/objects.a -Wl,--no-whole-archive -o DodgeShip.exe -Wl,--out-implib,libDodgeShip.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DodgeShip.dir\linkLibs.rsp

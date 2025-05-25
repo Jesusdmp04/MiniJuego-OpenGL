@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jesus\OneDrive\Dokument\Actividad N-1 Jesus David Montilla Pernia C.I 30.341.805\Actividad N-3\src\Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jesus\OneDrive\Dokument\Actividad N-1 Jesus David Montilla Pernia C.I 30.341.805\Actividad N-3\src\Escena1_Presentacion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jesus\OneDrive\Dokument\Actividad N-1 Jesus David Montilla Pernia C.I 30.341.805\Actividad N-3\src\Escena2_Juego.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jesus\OneDrive\Dokument\Actividad N-1 Jesus David Montilla Pernia C.I 30.341.805\Actividad N-3\src\Escena3_Final.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jesus\OneDrive\Dokument\Actividad N-1 Jesus David Montilla Pernia C.I 30.341.805\Actividad N-3\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jesus\OneDrive\Dokument\Actividad N-1 Jesus David Montilla Pernia C.I 30.341.805\Actividad N-3\src\SceneManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jesus\OneDrive\Dokument\Actividad N-1 Jesus David Montilla Pernia C.I 30.341.805\Actividad N-3\src\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jesus\OneDrive\Dokument\Actividad N-1 Jesus David Montilla Pernia C.I 30.341.805\Actividad N-3\src\Texto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jesus\OneDrive\Dokument\Actividad N-1 Jesus David Montilla Pernia C.I 30.341.805\Actividad N-3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DADAAB93-7A5C-346D-BAAC-D9969E0155B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
